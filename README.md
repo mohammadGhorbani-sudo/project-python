@@ -1,38 +1,37 @@
-# project-python
 🚀 Mohammad Developer Website
 
-سلام 👋
-این پروژه یک وب‌سایت شخصی است که توسط محمد ساخته شده و شامل معرفی، مهارت‌ها و آموزش پایتون از سطح مبتدی تا حرفه‌ای می‌باشد.
+Hello 👋
+This project is a personal website created by Mohammad. It includes a portfolio, skills showcase, and a Python learning section from beginner to advanced level.
 
 ---
 
-🌐 ویژگی‌ها
+🌐 Features
 
-- طراحی ساده و مدرن 🎨
-- معرفی مهارت‌ها (HTML, CSS, JavaScript) 💻
-- بخش آموزش پایتون 🐍
-- تمرین‌های سطح‌بندی شده:
-  - مبتدی
-  - متوسط
-  - حرفه‌ای
-- سیستم مرحله‌ای (کاربر باید تمرین قبلی را انجام دهد)
-- رابط کاربری فارسی 🇮🇷
+- Clean and modern UI 🎨
+- Skills section (HTML, CSS, JavaScript) 💻
+- Python learning section 🐍
+- Practice exercises with levels:
+  - Beginner
+  - Intermediate
+  - Advanced
+- Step-by-step learning system (users must complete previous tasks)
+- Persian (Farsi) user interface 🇮🇷
 
 ---
 
-📚 آموزش پایتون
+📚 Python Learning
 
-این سایت شامل آموزش‌های پایه پایتون است:
+This website includes basic Python tutorials such as:
 
 - Hello World
-- متغیرها
-- شرط‌ها
-- حلقه‌ها
-- تمرین‌های عملی
+- Variables
+- Conditions
+- Loops
+- Practice exercises
 
 ---
 
-🛠️ تکنولوژی‌های استفاده شده
+🛠️ Technologies Used
 
 - HTML
 - CSS
@@ -40,32 +39,30 @@
 
 ---
 
-▶️ نحوه اجرا
+▶️ How to Run
 
-1. فایل‌ها را دانلود کنید
-2. فایل "index.html" را باز کنید
-
-یا در مرورگر اجرا کنید.
+1. Download the project files
+2. Open "index.html" in your browser
 
 ---
 
-🎯 هدف پروژه
+🎯 Project Goal
 
-هدف این پروژه:
+The goal of this project is to:
 
-- یادگیری طراحی سایت
-- آموزش برنامه‌نویسی به مبتدیان
-- ساخت یک نمونه کار (Portfolio)
+- Practice web development
+- Teach programming to beginners
+- Build a personal portfolio
 
 ---
 
-👨‍💻 سازنده
+👨‍💻 Author
 
 Mohammad
-برنامه‌نویس آینده 😎🚀
+Future Developer 😎🚀
 
 ---
 
-⭐ اگر خوشت اومد
+⭐ Support
 
-پروژه رو ⭐ کن و حمایت کن 🙌
+If you like this project, give it a ⭐ on GitHub!
